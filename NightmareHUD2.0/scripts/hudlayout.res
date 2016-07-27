@@ -84,7 +84,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"359"	[$WIN32]
-		"ypos"			"375"	[$WIN32]
+		"ypos"			"335"	[$WIN32]
 		"zpos"			"1"			// draw in front of ammo
 		"wide"			"500"
 		"tall"			"8"
@@ -186,11 +186,8 @@
 	CHudAccountPanel
 	{
 		"fieldName"				"CHudAccountPanel"
-		"xpos"					"r162"	[$WIN32]
-		"ypos"					"r152"	[$WIN32]
-		"ypos_minmode"			"r134"	[$WIN32]
-		"xpos"					"r194"	[$X360]
-		"ypos"					"r174"	[$X360]
+		"xpos"					"380"	[$WIN32]
+		"ypos"					"r262"	[$WIN32]
 		"wide"					"116"
 		"tall"  				"180"
 		"visible" 				"1"
@@ -242,7 +239,7 @@
 		"visible" 	"0"
 		"enabled" 	"1"
 		"xpos"		"c-126"
-		"ypos"		"285"
+		"ypos"		"265"
 		"wide"	 	"252"
 		"tall"	 	"35"
 		"tall_minmode"	 	"28"
@@ -279,7 +276,7 @@
 		"visible" 	"0"
 		"enabled" 	"1"
 		"xpos"		"c-126"
-		"ypos"		"335"
+		"ypos"		"390"
 		"wide"	 	"252"
 		"tall"	 	"35"
 		"tall_minmode"	 	"28"

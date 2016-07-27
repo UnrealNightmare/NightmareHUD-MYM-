@@ -6,7 +6,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"r532"	[$WIN32]
-		"ypos"			"r120"	[$WIN32]
+		"ypos"			"r180"	[$WIN32]
 		"wide"			"500"
 		"tall"			"50"
 		"MeterFG"		"White"
@@ -44,8 +44,8 @@
 		"tall"					"15"
 		"autoResize"			"1"
 		"pinCorner"				"2"
-		"visible"				"1"
-		"visible_minmode"		"1"
+		"visible"				"0"
+		"visible_minmode"		"0"
 		"ypos_minmode"			"0"
 		"xpos_minmode"			"0"
 		"textAlignment_minmode"			"west"

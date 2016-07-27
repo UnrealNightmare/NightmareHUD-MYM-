@@ -115,7 +115,7 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"TargetNameLabel"
-		"font"			"Comfort12"
+		"font"			"Comfort16"
 		"xpos"			"8"
 		"ypos"			"5"
 		"zpos"			"1"
@@ -136,7 +136,7 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"TargetDataLabel"
-		"font"			"FontStoreOriginalPrice"
+		"font"			"Comfort10"
 		"xpos"			"8"
 		"ypos"			"17"	[$WIN32]
 		"zpos"			"1"
@@ -150,6 +150,7 @@
 		"textAlignment"		"Left"
 		"dulltext"		"0"
 		"brighttext"		"0"
+		"fgcolor_override"	"255 200 0 255"
 
 	}
 	"SpectatorGUIHealth"

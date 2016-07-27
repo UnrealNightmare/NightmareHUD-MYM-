@@ -6,7 +6,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"322"	[$WIN32]
-		"ypos"			"r125"	[$WIN32]
+		"ypos"			"r185"	[$WIN32]
 		"wide"			"500"
 		"tall"			"50"
 		"MeterFG"		"White"
@@ -44,12 +44,12 @@
 		"tall"					"15"
 		"autoResize"			"1"
 		"pinCorner"				"2"
-		"visible"				"1"
+		"visible"				"0"
 		"visible_minmode"		"1"
 		"ypos_minmode"			"0"
 		"xpos_minmode"			"0"
 		"textAlignment_minmode"			"west"
-		"enabled"				"1"
+		"enabled"				"0"
 		"tabPosition"			"0"
 		"labelText"				"#TF_ENERGYDRINK"
 		"textAlignment"			"center"
@@ -67,7 +67,7 @@
 		"xpos"					"47"
 		"ypos"					"23"
 		"zpos"					"2"
-		"wide"					"121"
+		"wide"					"120"
 		"tall"					"8"				
 		"autoResize"			"0"
 		"pinCorner"				"0"
