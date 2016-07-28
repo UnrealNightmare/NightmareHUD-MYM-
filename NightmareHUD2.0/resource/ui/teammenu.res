@@ -121,7 +121,7 @@
 		"tall"			"20"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"Blue"
+		"fillcolor"		"46 73 82 255"
 	}
 
 	"BlueTeamBG2"
@@ -176,7 +176,7 @@
 		"tall"			"20"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"Red"
+		"fillcolor"		"102 48 46 255"
 	}
 	
 	"RedTeamBG2"

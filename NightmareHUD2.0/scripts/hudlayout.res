@@ -84,7 +84,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"359"	[$WIN32]
-		"ypos"			"335"	[$WIN32]
+		"ypos"			"355"	[$WIN32]
 		"zpos"			"1"			// draw in front of ammo
 		"wide"			"500"
 		"tall"			"8"

@@ -21,7 +21,7 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"font"					"logo40"
-		"fgcolor_override"	"255 255 255 255"		
+		"fgcolor_override"	"Black"		
 	}	
 	
 	"ColoredBar"
