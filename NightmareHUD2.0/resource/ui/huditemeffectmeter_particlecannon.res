@@ -5,7 +5,7 @@
 		"fieldName"		"HudItemEffectMeter"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"325"	[$WIN32]
+		"xpos"			"322"	[$WIN32]
 		"ypos"			"r190"	[$WIN32]
 		"wide"			"500"
 		"tall"			"50"
@@ -44,8 +44,8 @@
 		"tall"					"15"
 		"autoResize"			"1"
 		"pinCorner"				"2"
-		"visible"				"1"
-		"enabled"				"1"
+		"visible"				"0"
+		"enabled"				"0"
 		"tabPosition"			"0"
 		"labelText"				"#TF_ENERGYDRINK"
 		"textAlignment"			"center"
@@ -73,5 +73,57 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"bgcolor_override"		"TransparentBlack"
-	}					
+	}	
+	"Border1"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"Border1"
+		"xpos"			"45"
+		"ypos"			"31"
+		"zpos"			"2"
+		"wide"			"123"
+		"tall"	 		"2"
+		"visible"		"1"
+		"enabled"		"1"
+		"fillcolor"		"Cyan"
+	}	
+	"Border2"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"Border2"
+		"xpos"			"47"
+		"ypos"			"21.5"
+		"zpos"			"2"
+		"wide"			"122"
+		"tall"	 		"2"
+		"visible"		"1"
+		"enabled"		"1"
+		"fillcolor"		"Cyan"
+	}
+	"Border3"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"Border3"
+		"xpos"			"167"
+		"ypos"			"21"
+		"zpos"			"2"
+		"wide"			"2"
+		"tall"	 		"11"
+		"visible"		"1"
+		"enabled"		"1"
+		"fillcolor"		"Cyan"
+	}
+	"Border4"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"Border4"
+		"xpos"			"45"
+		"ypos"			"21"
+		"zpos"			"2"
+		"wide"			"2"
+		"tall"	 		"11"
+		"visible"		"1"
+		"enabled"		"1"
+		"fillcolor"		"Cyan"
+	}	
 }

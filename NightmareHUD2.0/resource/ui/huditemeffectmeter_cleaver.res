@@ -77,5 +77,57 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"bgcolor_override"		"TransparentBlack"
-	}					
+	}
+	"Border1"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"Border1"
+		"xpos"			"38"
+		"ypos"			"31"
+		"zpos"			"2"
+		"wide"			"124"
+		"tall"	 		"2"
+		"visible"		"1"
+		"enabled"		"1"
+		"fillcolor"		"Cyan"
+	}	
+	"Border2"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"Border2"
+		"xpos"			"39"
+		"ypos"			"21.5"
+		"zpos"			"2"
+		"wide"			"123"
+		"tall"	 		"2"
+		"visible"		"1"
+		"enabled"		"1"
+		"fillcolor"		"Cyan"
+	}
+	"Border3"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"Border3"
+		"xpos"			"160"
+		"ypos"			"21"
+		"zpos"			"2"
+		"wide"			"2"
+		"tall"	 		"11"
+		"visible"		"1"
+		"enabled"		"1"
+		"fillcolor"		"Cyan"
+	}
+	"Border4"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"Border4"
+		"xpos"			"38"
+		"ypos"			"21"
+		"zpos"			"2"
+		"wide"			"3"
+		"tall"	 		"10"
+		"visible"		"1"
+		"enabled"		"1"
+		"fillcolor"		"Cyan"
+	}	
 }

@@ -5,8 +5,8 @@
 		"fieldName"		"HudItemEffectMeter"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"330"	[$WIN32]
-		"ypos"			"r180"	[$WIN32]
+		"xpos"			"327"	[$WIN32]
+		"ypos"			"r175"	[$WIN32]
 		"wide"			"500"
 		"tall"			"50"
 		"MeterFG"		"White"
@@ -44,10 +44,10 @@
 		"tall"					"15"
 		"autoResize"			"1"
 		"pinCorner"				"2"
-		"visible"				"1"
+		"visible"				"0"
 		"ypos_minmode"			"0"
 		"xpos_minmode"			"0"
-		"enabled"				"1"
+		"enabled"				"0"
 		"tabPosition"			"0"
 		"labelText"				"#TF_ENERGYDRINK"
 		"textAlignment"			"center"
@@ -75,5 +75,57 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"bgcolor_override"		"TransparentBlack"
-	}					
+	}
+	"Border1"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"Border1"
+		"xpos"			"40"
+		"ypos"			"31"
+		"zpos"			"2"
+		"wide"			"123"
+		"tall"	 		"2"
+		"visible"		"1"
+		"enabled"		"1"
+		"fillcolor"		"Pink"
+	}	
+	"Border2"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"Border2"
+		"xpos"			"40"
+		"ypos"			"21"
+		"zpos"			"2"
+		"wide"			"122"
+		"tall"	 		"2"
+		"visible"		"1"
+		"enabled"		"1"
+		"fillcolor"		"Pink"
+	}
+	"Border3"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"Border3"
+		"xpos"			"162"
+		"ypos"			"21"
+		"zpos"			"2"
+		"wide"			"2"
+		"tall"	 		"11"
+		"visible"		"1"
+		"enabled"		"1"
+		"fillcolor"		"Pink"
+	}
+	"Border4"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"Border4"
+		"xpos"			"40"
+		"ypos"			"21"
+		"zpos"			"2"
+		"wide"			"2"
+		"tall"	 		"11"
+		"visible"		"1"
+		"enabled"		"1"
+		"fillcolor"		"Pink"
+	}	
 }

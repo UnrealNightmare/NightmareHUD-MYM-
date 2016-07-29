@@ -5,9 +5,9 @@
 		"fieldName"		"HudItemEffectMeter"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"r485"	[$WIN32]
-		"ypos"			"r170"	[$WIN32]
-		"wide"			"500"
+		"xpos"			"r500"	[$WIN32]
+		"ypos"			"r165"	[$WIN32]
+		"wide"			"700"
 		"tall"			"50"
 		"MeterFG"		"White"
 		"MeterBG"		"TransparentBlack"
@@ -64,7 +64,7 @@
 		"ControlName"			"ContinuousProgressBar"
 		"fieldName"				"ItemEffectMeter"
 		"font"					"Default"
-		"xpos"					"0"
+		"xpos"					"15"
 		"ypos"					"28"
 		"zpos"					"2"
 		"wide"					"120"
@@ -77,5 +77,59 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"bgcolor_override"		"TransparentBlack"
-	}					
+	}	
+	"Border1"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"Border1"
+		"xpos"			"15"
+		"ypos"			"36"
+		"zpos"			"2"
+		"wide"			"122"
+		"tall"	 		"2"
+		"visible"		"1"
+		"enabled"		"1"
+		"fillcolor"		"Pink"
+	}	
+	"Border2"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"Border2"
+		"xpos"			"15"
+		"ypos"			"26.5"
+		"zpos"			"2"
+		"wide"			"122"
+		"tall"	 		"2"
+		"visible"		"1"
+		"enabled"		"1"
+		"fillcolor"		"Pink"
+	}
+	"Border3"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"Border3"
+		"xpos"			"135"
+		"ypos"			"27"
+		"zpos"			"2"
+		"wide"			"2"
+		"tall"	 		"11"
+		"visible"		"1"
+		"enabled"		"1"
+		"fillcolor"		"Pink"
+	}
+	"Border4"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"Border4"
+		"xpos"			"13"
+		"ypos"			"26"
+		"zpos"			"2"
+		"wide"			"2"
+		"tall"	 		"12"
+		"visible"		"1"
+		"enabled"		"1"
+		"fillcolor"		"Pink"
+	}
+	
+
 }

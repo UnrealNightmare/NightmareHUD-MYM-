@@ -63,7 +63,58 @@
 		"brighttext"			"0"
 		"fgcolor_override"	"White"
 		"bgcolor_override"	"TransparentBlack"
-	}				
+	}
+	"Border1"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"Border1"
+		"xpos"			"24"
+		"ypos"			"41"
+		"zpos"			"2"
+		"wide"			"123"
+		"tall"	 		"2"
+		"visible"		"1"
+		"enabled"		"1"
+		"fillcolor"		"Green"
+	}	
+	"Border2"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"Border2"
+		"xpos"			"24"
+		"ypos"			"31"
+		"zpos"			"2"
+		"wide"			"123"
+		"tall"	 		"2"
+		"visible"		"1"
+		"enabled"		"1"
+		"fillcolor"		"Green"
+	}
+	"Border3"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"Border3"
+		"xpos"			"145"
+		"ypos"			"32"
+		"wide"			"2"
+		"tall"	 		"11"
+		"visible"		"1"
+		"enabled"		"1"
+		"fillcolor"		"Green"
+	}
+	"Border4"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"Border4"
+		"xpos"			"24"
+		"ypos"			"32"
+		"zpos"			"2"
+		"wide"			"2"
+		"tall"	 		"10"
+		"visible"		"1"
+		"enabled"		"1"
+		"fillcolor"		"Green"
+	}	
 		
 	"PipesPresentPanel"
 	{
